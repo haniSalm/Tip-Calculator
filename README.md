@@ -1,1 +1,1 @@
-# Tip-Calculator
+This project is a Tip Calculator implemented using HTML, CSS, and JavaScript. It allows users to input the bill amount, select a tip percentage, and split the total bill among a chosen number of people, displaying the cost per person.
